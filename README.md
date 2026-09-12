@@ -48,6 +48,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alandprieto&show_icons=true&theme=default&hide_title=true" />
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/alandprieto?style=flat&label=Followers&color=blue" /> <img src="https://img.shields.io/github/stars/alandprieto?style=flat&label=Stars&color=yellow" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falandprieto%2Frepos&label=Repos&query=%24.length&color=informational" /> </p>
