@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Alán 👋</h1>
+<h1 align="center">¡Hola! Soy Alán Prieto</h1>
 
 <p align="center">
   Estudiante de Ing. en Computación y Cs. de Datos (UNLP) · Buenos Aires, Argentina 🇦🇷
