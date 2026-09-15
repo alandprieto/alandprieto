@@ -41,7 +41,7 @@
 
 <p align="left">
   <!-- Reemplazá estos links por los tuyos -->
-  <a href="alandprieto.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://alandprieto.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alan-prieto-611858305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alandanielprieto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
