@@ -34,6 +34,7 @@
 | [**bottask-dircord**](https://github.com/alandprieto/bottask-dircord) | Bot de Discord para gestión de tareas por canal, con comandos slash, autocompletado y persistencia en SQLite. |
 | [**farma-delivery**](https://github.com/alandprieto/farma-delivery) | Sistema de delivery de farmacia desarrollado con Django. |
 | [**plataforma-streaming-java**](https://github.com/alandprieto/plataforma-streaming-java) | Plataforma de streaming de escritorio en Java (Swing), arquitectura MVC + DAO, persistencia SQLite e integración con la API de OMDb. |
+| [**Mineria**](https://github.com/alandprieto/Mineria) | redicción de resultados de fútbol y perfiles de jugadores/equipos (clustering, clasificación, regresión) sobre la European Soccer Database. |
 
 <!-- Cuando tengas el repo público, agregá acá el TPI de minería de datos (predicción de partidos de fútbol) y el proyecto del Tablero Vehicular con ESP32. -->
 
